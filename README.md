@@ -1,4 +1,4 @@
-# Steam-Spam-Caller
+# Steam Spam Caller
 A simple steam spam caller. It requires no effort except an initial click to call button and initiate the program.
 
 I suggest calling someone NOT using the steam overlay because if you are playing a game like Rainbow Six Siege or something along the lines of that then, BattlEye will ban you faster than you could imagine.
@@ -18,4 +18,4 @@ To stop the program press `CTRL+J` again.
 To exit the script press `esc`. It will stop the AutoHotkey file from running in your system tray, because all AHK devs think its better to pause the script and then you forget about it and get Vanguard or EasyAntiCheat eyeing you down...
 
 ## Customization
-The start hotkey can be edited to be any key. The {^} is the ctrl, and the {j} is the j key, pretty explainable and you can change it to whatever you desire.
+The start hotkey can be edited to be any key. The `^` is the `CTRL` and the `j` is the `J` key. You can change it to whatever you desire.
