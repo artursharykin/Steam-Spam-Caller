@@ -1,5 +1,5 @@
 # Steam Spam Caller
-A simple steam spam caller. It requires no effort except an initial click to call button and initiate the program.
+A simple steam spam caller to annoy people.
 
 I suggest calling someone NOT using the steam overlay because if you are playing a game like Rainbow Six Siege or something along the lines of that then, BattlEye will ban you faster than you could imagine.
 
