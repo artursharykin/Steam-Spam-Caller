@@ -1,3 +1,21 @@
-# Steam-Spam-Caller
-A simple steam spam caller, it requires no effort except an initial click to call button and initiate the program, to start the program its (CTRL+J) [but it can be edited to be any key, the {^} is the ctrl, and the {j} is the j key, pretty explainable and you can change it to whatever you desire]. After running the script it will automatically call the user, every 1.01 seconds, because steam doesn't allow faster calling, and to end the script, literally press the Escape key, it will stop the disk from being in your system tray, because all AHK devs think its better to pause the script and then you forget about it and get Vanguard or EasyAntiCheat eyeing you down...
+# Steam Spam Caller
+A simple steam spam caller. It requires no effort except an initial click to call button and initiate the program.
+
 I suggest calling someone NOT using the steam overlay because if you are playing a game like Rainbow Six Siege or something along the lines of that then, BattlEye will ban you faster than you could imagine.
+
+## Usage
+
+### File
+By default, it is recommended to use `Enter Key.ahk`. This file uses the Enter key to call the user, so the chat window can be placed anywhere on the screen.
+
+There have been cases where the Enter key does not initiate a Steam call for some users. If this is the case for you, then you can use `Mouse Movements.ahk`. This version moves the mouse to press the "Start Voice Chat" button. Move the chat window to the top-left of your screen before beginning the program.
+
+### Controls
+To start the program use `CTRL+J`. The user will be called every 1.01 seconds, because Steam doesn't allow faster calling.
+
+To stop the program press `CTRL+J` again.
+
+To exit the script press `esc`. It will stop the AutoHotkey file from running in your system tray, because all AHK devs think its better to pause the script and then you forget about it and get Vanguard or EasyAntiCheat eyeing you down...
+
+## Customization
+The start hotkey can be edited to be any key. The `^` is the `CTRL` and the `j` is the `J` key. You can change it to whatever you desire.
