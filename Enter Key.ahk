@@ -2,7 +2,7 @@
 //Allows double slash comments
 
 //This script uses the enter key to call the user and is considered the optimal method
-
+	//Make the initial call using the button in the bottom right of the message window, then start the script.
 #MaxThreadsPerHotkey 2 //Ensure we don't create duplicate threads
 
 ^j::  //Ctrl + J  to start the loop
