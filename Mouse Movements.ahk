@@ -1,8 +1,8 @@
 #CommentFlag //
 //Allows double slash comments
-	//Be sure to have your steam friends conversation window be in the foreground, or else it will mess with your desktop. 
 
-//This script uses mouse movements to physically click the call button. Useful if the Enter key does not call the other user for you
+//This script uses mouse movements to physically click the call button. Useful if the Enter key does not call the other user for you.
+	//Be sure to have your Steam friends conversation window in the foreground, or else it will mess with your desktop.
 
 #MaxThreadsPerHotkey 2 //Ensure we don't create duplicate threads
 
