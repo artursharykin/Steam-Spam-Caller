@@ -14,7 +14,7 @@ Loop  //Loops indefinitely. Can be changed to be a number using `Loop, 100`, whe
 		break
 	}
 	Send {enter}  //Send the enter key to stop/start a call
-	Sleep, 1001  //Wait 1.001 seconds to get the entire audio to play
+	Sleep, 1100  //Wait 1.1 seconds to get the entire audio to play
 }
 
 Esc::ExitApp
