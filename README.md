@@ -13,9 +13,7 @@ There have been cases where the Enter key does not initiate a Steam call for som
 ### Controls
 To start the program use `CTRL+J`. The user will be called every 1.001 seconds, because Steam doesn't allow faster ringing.
 
-To stop the program press `CTRL+J` again.
-
-To exit the script press `esc`. It will stop the AutoHotkey file from running in your system tray.
+To exit the script, you may either press `CTRL+J` or `esc`, there is no pausing functionality.
 
 ## Customization
 The start hotkey can be edited to be any key. The `^` is the `CTRL` and the `j` is the `J` key. You can change it to whatever you desire.
