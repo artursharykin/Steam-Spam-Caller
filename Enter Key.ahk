@@ -18,3 +18,4 @@ Loop  //Loops indefinitely. Can be changed to be a number using `Loop, 100`, whe
 }
 
 Esc::ExitApp
+return
