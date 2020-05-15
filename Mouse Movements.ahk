@@ -12,7 +12,7 @@ Loop  //Loops indefinitely. Can be changed to be a number using `Loop, 100`, whe
 {
 	if not running  //Check if the running variable is false
 	{
-		break //If so, break the loop
+		break  //If so, break the loop
 	}
 	MouseMove, 150, 20  //Move to the user tab in the chat interface
 	MouseClick, right  //Right click the profile
